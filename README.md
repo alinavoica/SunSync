@@ -1,4 +1,7 @@
 # SunSync
+![image](https://github.com/user-attachments/assets/e21c13fe-f865-4402-9c5f-1577b03b1637)
+![image](https://github.com/user-attachments/assets/6043ef24-9256-46a2-87c0-cbb184c19471)
+
 ### **Code Breakdown:**
 
 1. **Wi-Fi Connection:**
